@@ -12,6 +12,8 @@ To use this element:
 
 `bower install paper-password-input`
 
+Differences between this and the forked version:
+* Supports setting the name property
 
 ## License
 
